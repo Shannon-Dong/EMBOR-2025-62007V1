@@ -1,4 +1,4 @@
-# The exonic SNP rs11676272 mediates diet-induced obesity by adjusting allele-specific enhancer activation
+# The exonic SNP rs11676272-C risk allele mediates diet-induced obesity and reduces enhancer activation
 
 ## Data Availability
 
